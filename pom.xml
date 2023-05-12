@@ -30,12 +30,7 @@
 			<version>0.8.7</version>
 			<scope>test</scope>
 		</dependency>
-	
-   <dependency>
-     <groupId>com.liferay.portal</groupId>
-     <artifactId>com.liferay.portal.kernel</artifactId>
-     <version>4.27.1</version>
-   </dependency>
+
  </dependencies>
 
 	<build>
